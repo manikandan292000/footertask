@@ -1,0 +1,98 @@
+*{
+	padding:0px;
+   margin:0px;
+   box-sizing:border-box;
+	}
+.container{
+   width:85%;
+   margin:auto;
+   }
+.box{
+   height:60vh;
+   margin:auto;
+	}
+	
+.first_step h1{
+font-family:sans-serif;
+margin-bottom:30px;
+}
+.first_step p{
+font-family:sans-serif;
+margin-bottom:15px;
+}
+.first_step i{
+border:1px solid #BEBFC5;
+border-radius:50px;
+padding:10px 11px;
+color:#BEBFC5;
+transition:1s;
+}
+.first_step i:hover{
+border:1px solid red;
+color:red;
+}
+.second_step h3{
+font-family:sans-serif;
+padding-bottom:20px;
+}
+.second_step p{
+font-family:sans-serif;
+padding-bottom:20px;
+}
+.third_step h3{
+font-family:sans-serif;
+padding-bottom:20px;
+}
+.third_step p{
+font-family:sans-serif;
+padding-bottom:20px;
+}
+
+.forth_step h3{
+font-family:sans-serif;
+padding-bottom:20px;
+}
+.forth_step p{
+font-family:sans-serif;
+padding-bottom:10px;
+}
+.Contact p{
+font-family:sans-serif;
+}
+.Contact{
+padding-top:20px;
+}
+.full_box{
+display:flex;
+}
+.second_step{
+margin-left:30px;
+}
+.third_step{
+margin-left:100px;
+}
+.forth_step{
+margin-left:100px;
+}
+.box{
+background-color:#E5E4E2;
+}
+.full_box{
+padding:20px;
+}
+.fifth_step{
+text-align:center;
+background-color:#BEBFC5;
+padding:20px;
+}
+.fifth_step a{
+text-decoration:none;
+color:red;
+padding-left:10px;
+font-family:sans-serif;
+}
+.fifth_step p{
+padding-bottom:10px;
+font-family:sans-serif;
+}
+
